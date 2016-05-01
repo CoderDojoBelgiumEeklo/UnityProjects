@@ -3,7 +3,10 @@ using System.Collections;
 
 public class ArmyController : MonoBehaviour {
 
-
+	/*
+	 *  DEPRECATED  - Replaced by GameEngine
+	 * 
+	 */
 
 	// Use this for initialization
 	void Start () {
