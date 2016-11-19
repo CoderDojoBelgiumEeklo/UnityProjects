@@ -1,5 +1,5 @@
 
-
+https://unity3d.com/learn/tutorials/topics/cloud-build/creating-your-first-source-control-repository
 
 
 
@@ -54,6 +54,16 @@ Current Game System Functionality
         }
 
     }
+
+
+# Git stuff
+==============
+
+Double check that it excludes meta files and the likes (and temp and library folder)
+otherwise your download/upload takes forever
+
+also, go to edit / project settigns / editor  and set Asset serialization to Force Text
+
 
 
 
