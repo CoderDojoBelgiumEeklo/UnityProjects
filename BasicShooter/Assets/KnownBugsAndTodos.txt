@@ -1,0 +1,20 @@
+
+
+bullet system
+============= 
+- bullets stop flying
+
+
+
+energy system 
+=============
+- bug - count down when shooting goes too fast, so sometimes it drops to zero and you cant shoot
+- needs tweaking on energy rebuild
+- needs to flash the energy bar when you increase (replenish) energy
+
+
+
+unspecific errors
+=================
+
+- Error IsFinite(outDistanceOfSort) ---> no idea yet
