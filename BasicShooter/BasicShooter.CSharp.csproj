@@ -72,6 +72,15 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CDScripts\EnemyController.cs" />
+    <Compile Include="Assets\CDScripts\EnergyController.cs" />
+    <Compile Include="Assets\CDScripts\GameSystemScript.cs" />
+    <Compile Include="Assets\CDScripts\HealthController.cs" />
+    <Compile Include="Assets\CDScripts\MonsterController.cs" />
+    <Compile Include="Assets\CDScripts\ShootController.cs" />
+    <Compile Include="Assets\CDScripts\TessaractTurret.cs" />
+    <Compile Include="Assets\CDScripts\UIController.cs" />
+    <Compile Include="Assets\CDScripts\bulletscript.cs" />
     <Compile Include="Assets\ImportedAssets\Effects\PyroParticles\Demo\DemoScript.cs" />
     <Compile Include="Assets\ImportedAssets\Effects\PyroParticles\Prefab\Script\FireBaseScript.cs" />
     <Compile Include="Assets\ImportedAssets\Effects\PyroParticles\Prefab\Script\FireCollisionForwardScript.cs" />
@@ -80,15 +89,6 @@
     <Compile Include="Assets\ImportedAssets\Effects\PyroParticles\Prefab\Script\FireProjectileScript.cs" />
     <Compile Include="Assets\ImportedAssets\Effects\PyroParticles\Prefab\Script\MeteorSwarmScript.cs" />
     <Compile Include="Assets\ImportedAssets\Effects\PyroParticles\Prefab\Script\SingleLineAttribute.cs" />
-    <Compile Include="Assets\MyScripts\EnemyController.cs" />
-    <Compile Include="Assets\MyScripts\EnergyController.cs" />
-    <Compile Include="Assets\MyScripts\GameSystemScript.cs" />
-    <Compile Include="Assets\MyScripts\HealthController.cs" />
-    <Compile Include="Assets\MyScripts\MonsterController.cs" />
-    <Compile Include="Assets\MyScripts\ShootController.cs" />
-    <Compile Include="Assets\MyScripts\TessaractTurret.cs" />
-    <Compile Include="Assets\MyScripts\UIController.cs" />
-    <Compile Include="Assets\MyScripts\bulletscript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ImportedAssets\Effects\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
