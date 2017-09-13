@@ -28,7 +28,7 @@ public class EnergyController : MonoBehaviour {
     void FixedUpdate()
     {
         CurrentEnergy += Replenishment;
-        UIHandler.updateEnergySlider(CurrentEnergy);
+       // UIHandler.updateEnergySlider(CurrentEnergy);
 
     }
     public void increaseEnergy(int amount)

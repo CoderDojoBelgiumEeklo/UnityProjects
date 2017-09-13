@@ -68,7 +68,7 @@ public class ShootController : MonoBehaviour {
 		if (fireEnabled && canfire) 
 		{
 			GameObject bullet = (GameObject) GameObject.Instantiate(ammo,transform.position+transform.forward*3,Quaternion.identity);
-			 bulletscript bController = (bulletscript) bullet.GetComponent<bulletscript>();
+			 BulletScript bController = (BulletScript) bullet.GetComponent<BulletScript>();
 
             var shootPosition = new Vector3(Input.mousePosition.x, Input.mousePosition.y, shootDistance);
             shootPosition = Camera.main.ScreenToWorldPoint(shootPosition);

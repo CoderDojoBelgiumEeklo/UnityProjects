@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexAsset.Plugins", "VortexAsset.Plugins.csproj", "{B8370138-7591-61E3-BACA-1C3D63706FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexAsset", "VortexAsset.csproj", "{892251DC-C578-F08A-5FEE-F00C06126C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VortexAsset.Editor.Plugins", "VortexAsset.Editor.Plugins.csproj", "{B942CA2D-C492-E4FC-FB33-67149D8CBB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8370138-7591-61E3-BACA-1C3D63706FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8370138-7591-61E3-BACA-1C3D63706FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8370138-7591-61E3-BACA-1C3D63706FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8370138-7591-61E3-BACA-1C3D63706FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892251DC-C578-F08A-5FEE-F00C06126C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892251DC-C578-F08A-5FEE-F00C06126C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892251DC-C578-F08A-5FEE-F00C06126C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892251DC-C578-F08A-5FEE-F00C06126C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B942CA2D-C492-E4FC-FB33-67149D8CBB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B942CA2D-C492-E4FC-FB33-67149D8CBB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B942CA2D-C492-E4FC-FB33-67149D8CBB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B942CA2D-C492-E4FC-FB33-67149D8CBB94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

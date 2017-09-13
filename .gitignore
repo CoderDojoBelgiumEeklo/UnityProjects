@@ -7,7 +7,7 @@ Library/
  
 # Unity3D generated meta files 
 *.pidb.meta 
-
+*LightingData.asset
  
 # Unity3D Generated File On Crash Reports 
 sysinfo.txt 

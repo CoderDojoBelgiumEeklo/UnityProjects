@@ -2,13 +2,13 @@
 using System.Collections;
 
 
-public class bulletscript : MonoBehaviour {
+public class BulletScript : MonoBehaviour {
 	public GameObject explosion;
 
     public float timeToLive = 5.0f;
     public float liveTimer = 0;
     public float bulletSpeed = 100;
-
+  
 
 
     // Use this for initialization

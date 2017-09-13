@@ -8,7 +8,7 @@ public class MonsterController : MonoBehaviour {
 
     Animator anim = null;
   
-    NavMeshAgent navAgent = null;
+    UnityEngine.AI.NavMeshAgent navAgent = null;
 
 
 	// Use this for initialization
@@ -16,7 +16,7 @@ public class MonsterController : MonoBehaviour {
 
         anim= GetComponent<Animator>();
 
-        navAgent = GetComponent<NavMeshAgent>();
+        navAgent = GetComponent<UnityEngine.AI.NavMeshAgent>();
 	
 	}
 	

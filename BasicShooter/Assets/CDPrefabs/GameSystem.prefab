@@ -5,11 +5,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22446850}
-  - 222: {fileID: 22284946}
-  - 114: {fileID: 11402084}
+  - component: {fileID: 22446850}
+  - component: {fileID: 22284946}
+  - component: {fileID: 11402084}
   m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
@@ -22,11 +22,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22489970}
-  - 222: {fileID: 22240982}
-  - 114: {fileID: 11469390}
+  - component: {fileID: 22489970}
+  - component: {fileID: 22240982}
+  - component: {fileID: 11469390}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -39,9 +39,9 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22428414}
+  - component: {fileID: 22428414}
   m_Layer: 0
   m_Name: Handle Slide Area
   m_TagString: Untagged
@@ -54,11 +54,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22422826}
-  - 222: {fileID: 22297836}
-  - 114: {fileID: 11417320}
+  - component: {fileID: 22422826}
+  - component: {fileID: 22297836}
+  - component: {fileID: 11417320}
   m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
@@ -71,12 +71,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22415350}
-  - 222: {fileID: 22260218}
-  - 114: {fileID: 11422366}
-  - 95: {fileID: 9594828}
+  - component: {fileID: 22415350}
+  - component: {fileID: 22260218}
+  - component: {fileID: 11422366}
+  - component: {fileID: 9594828}
   m_Layer: 5
   m_Name: Crosshair Component
   m_TagString: Untagged
@@ -89,11 +89,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22409812}
-  - 222: {fileID: 22274764}
-  - 114: {fileID: 11452950}
+  - component: {fileID: 22409812}
+  - component: {fileID: 22274764}
+  - component: {fileID: 11452950}
   m_Layer: 0
   m_Name: Checkmark
   m_TagString: Untagged
@@ -106,10 +106,10 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22434558}
-  - 114: {fileID: 11458454}
+  - component: {fileID: 22434558}
+  - component: {fileID: 11458454}
   m_Layer: 0
   m_Name: Toggle
   m_TagString: Untagged
@@ -122,12 +122,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22461022}
-  - 223: {fileID: 22384790}
-  - 114: {fileID: 11472482}
-  - 114: {fileID: 11430688}
+  - component: {fileID: 22461022}
+  - component: {fileID: 22384790}
+  - component: {fileID: 11472482}
+  - component: {fileID: 11430688}
   m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
@@ -140,11 +140,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22480746}
-  - 222: {fileID: 22200914}
-  - 114: {fileID: 11470170}
+  - component: {fileID: 22480746}
+  - component: {fileID: 22200914}
+  - component: {fileID: 11470170}
   m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
@@ -157,9 +157,9 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22482316}
+  - component: {fileID: 22482316}
   m_Layer: 0
   m_Name: Handle Slide Area
   m_TagString: Untagged
@@ -172,11 +172,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22488166}
-  - 222: {fileID: 22256966}
-  - 114: {fileID: 11480734}
+  - component: {fileID: 22488166}
+  - component: {fileID: 22256966}
+  - component: {fileID: 11480734}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -189,12 +189,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22453444}
-  - 222: {fileID: 22201218}
-  - 114: {fileID: 11444896}
-  - 114: {fileID: 11402726}
+  - component: {fileID: 22453444}
+  - component: {fileID: 22201218}
+  - component: {fileID: 11444896}
+  - component: {fileID: 11402726}
   m_Layer: 0
   m_Name: BtnContinue
   m_TagString: Untagged
@@ -207,9 +207,9 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22416388}
+  - component: {fileID: 22416388}
   m_Layer: 0
   m_Name: Fill Area
   m_TagString: Untagged
@@ -222,11 +222,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22481708}
-  - 222: {fileID: 22226728}
-  - 114: {fileID: 11439878}
+  - component: {fileID: 22481708}
+  - component: {fileID: 22226728}
+  - component: {fileID: 11439878}
   m_Layer: 0
   m_Name: Background
   m_TagString: Untagged
@@ -239,11 +239,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22456428}
-  - 222: {fileID: 22268818}
-  - 114: {fileID: 11465478}
+  - component: {fileID: 22456428}
+  - component: {fileID: 22268818}
+  - component: {fileID: 11465478}
   m_Layer: 0
   m_Name: UIMainMenu
   m_TagString: Untagged
@@ -256,11 +256,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22421190}
-  - 222: {fileID: 22278270}
-  - 114: {fileID: 11465820}
+  - component: {fileID: 22421190}
+  - component: {fileID: 22278270}
+  - component: {fileID: 11465820}
   m_Layer: 0
   m_Name: StatusPanel
   m_TagString: Untagged
@@ -273,11 +273,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22401764}
-  - 222: {fileID: 22270178}
-  - 114: {fileID: 11484052}
+  - component: {fileID: 22401764}
+  - component: {fileID: 22270178}
+  - component: {fileID: 11484052}
   m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
@@ -290,14 +290,14 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 469600}
-  - 114: {fileID: 11490908}
-  - 114: {fileID: 11430304}
-  - 114: {fileID: 11439050}
-  - 114: {fileID: 11489060}
-  - 82: {fileID: 8268652}
+  - component: {fileID: 469600}
+  - component: {fileID: 11490908}
+  - component: {fileID: 11430304}
+  - component: {fileID: 11439050}
+  - component: {fileID: 11489060}
+  - component: {fileID: 8268652}
   m_Layer: 0
   m_Name: GameSystem
   m_TagString: GameSystem
@@ -310,11 +310,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22478156}
-  - 222: {fileID: 22246522}
-  - 114: {fileID: 11406244}
+  - component: {fileID: 22478156}
+  - component: {fileID: 22246522}
+  - component: {fileID: 11406244}
   m_Layer: 0
   m_Name: Image
   m_TagString: Untagged
@@ -327,11 +327,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22409718}
-  - 222: {fileID: 22230624}
-  - 114: {fileID: 11451758}
+  - component: {fileID: 22409718}
+  - component: {fileID: 22230624}
+  - component: {fileID: 11451758}
   m_Layer: 0
   m_Name: Label
   m_TagString: Untagged
@@ -344,9 +344,9 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22495018}
+  - component: {fileID: 22495018}
   m_Layer: 0
   m_Name: Fill Area
   m_TagString: Untagged
@@ -359,11 +359,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22401504}
-  - 222: {fileID: 22217724}
-  - 114: {fileID: 11463030}
+  - component: {fileID: 22401504}
+  - component: {fileID: 22217724}
+  - component: {fileID: 11463030}
   m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
@@ -376,12 +376,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22434994}
-  - 222: {fileID: 22278954}
-  - 114: {fileID: 11472356}
-  - 114: {fileID: 11498306}
+  - component: {fileID: 22434994}
+  - component: {fileID: 22278954}
+  - component: {fileID: 11472356}
+  - component: {fileID: 11498306}
   m_Layer: 0
   m_Name: BtnOptions
   m_TagString: Untagged
@@ -394,11 +394,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22466274}
-  - 222: {fileID: 22234788}
-  - 114: {fileID: 11400010}
+  - component: {fileID: 22466274}
+  - component: {fileID: 22234788}
+  - component: {fileID: 11400010}
   m_Layer: 0
   m_Name: Handle
   m_TagString: Untagged
@@ -411,12 +411,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22421212}
-  - 222: {fileID: 22203322}
-  - 114: {fileID: 11461176}
-  - 114: {fileID: 11416214}
+  - component: {fileID: 22421212}
+  - component: {fileID: 22203322}
+  - component: {fileID: 11461176}
+  - component: {fileID: 11416214}
   m_Layer: 0
   m_Name: BtnExit
   m_TagString: Untagged
@@ -429,11 +429,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22479124}
-  - 222: {fileID: 22240650}
-  - 114: {fileID: 11496638}
+  - component: {fileID: 22479124}
+  - component: {fileID: 22240650}
+  - component: {fileID: 11496638}
   m_Layer: 0
   m_Name: Options Menu
   m_TagString: Untagged
@@ -446,12 +446,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22453848}
-  - 222: {fileID: 22216420}
-  - 114: {fileID: 11493370}
-  - 114: {fileID: 11458366}
+  - component: {fileID: 22453848}
+  - component: {fileID: 22216420}
+  - component: {fileID: 11493370}
+  - component: {fileID: 11458366}
   m_Layer: 0
   m_Name: BtnNewGame
   m_TagString: Untagged
@@ -464,9 +464,9 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 4: {fileID: 495330}
+  - component: {fileID: 495330}
   m_Layer: 0
   m_Name: MyGui
   m_TagString: Untagged
@@ -479,12 +479,12 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22487068}
-  - 222: {fileID: 22235314}
-  - 114: {fileID: 11406466}
-  - 95: {fileID: 9570866}
+  - component: {fileID: 22487068}
+  - component: {fileID: 22235314}
+  - component: {fileID: 11406466}
+  - component: {fileID: 9570866}
   m_Layer: 5
   m_Name: Reticle Component
   m_TagString: Untagged
@@ -497,10 +497,10 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22405322}
-  - 114: {fileID: 11402022}
+  - component: {fileID: 22405322}
+  - component: {fileID: 11402022}
   m_Layer: 0
   m_Name: EnergySlider
   m_TagString: Untagged
@@ -513,11 +513,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22474686}
-  - 222: {fileID: 22262094}
-  - 114: {fileID: 11436102}
+  - component: {fileID: 22474686}
+  - component: {fileID: 22262094}
+  - component: {fileID: 11436102}
   m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
@@ -530,11 +530,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22428370}
-  - 222: {fileID: 22257258}
-  - 114: {fileID: 11430876}
+  - component: {fileID: 22428370}
+  - component: {fileID: 22257258}
+  - component: {fileID: 11430876}
   m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
@@ -547,9 +547,9 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22478716}
+  - component: {fileID: 22478716}
   m_Layer: 5
   m_Name: Target
   m_TagString: Untagged
@@ -562,11 +562,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22419212}
-  - 222: {fileID: 22201276}
-  - 114: {fileID: 11426912}
+  - component: {fileID: 22419212}
+  - component: {fileID: 22201276}
+  - component: {fileID: 11426912}
   m_Layer: 0
   m_Name: Fill
   m_TagString: Untagged
@@ -579,11 +579,11 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22408674}
-  - 222: {fileID: 22227166}
-  - 114: {fileID: 11469530}
+  - component: {fileID: 22408674}
+  - component: {fileID: 22227166}
+  - component: {fileID: 11469530}
   m_Layer: 0
   m_Name: Text
   m_TagString: Untagged
@@ -596,10 +596,10 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 4
+  serializedVersion: 5
   m_Component:
-  - 224: {fileID: 22449456}
-  - 114: {fileID: 11472638}
+  - component: {fileID: 22449456}
+  - component: {fileID: 11472638}
   m_Layer: 0
   m_Name: HealthSlider
   m_TagString: Untagged
@@ -620,6 +620,7 @@ Transform:
   - {fileID: 495330}
   m_Father: {fileID: 0}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &495330
 Transform:
   m_ObjectHideFlags: 1
@@ -633,6 +634,7 @@ Transform:
   - {fileID: 22461022}
   m_Father: {fileID: 469600}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &8268652
 AudioSource:
   m_ObjectHideFlags: 1
@@ -650,6 +652,7 @@ AudioSource:
   Loop: 0
   Mute: 0
   Spatialize: 0
+  SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
@@ -662,12 +665,14 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-    - time: 1
+    - serializedVersion: 2
+      time: 1
       value: 0
       inSlope: 0
       outSlope: 0
@@ -678,7 +683,8 @@ AudioSource:
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 0.48
       inSlope: 0
       outSlope: 0
@@ -689,7 +695,8 @@ AudioSource:
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -700,7 +707,8 @@ AudioSource:
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - time: 0
+    - serializedVersion: 2
+      time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -809,7 +817,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 22401504}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 1
+  m_MaxValue: 100
   m_WholeNumbers: 1
   m_Value: 0
   m_OnValueChanged:
@@ -2054,7 +2062,7 @@ Canvas:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 123316}
   m_Enabled: 1
-  serializedVersion: 2
+  serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
@@ -2063,6 +2071,7 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
@@ -2078,6 +2087,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22482316}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2095,6 +2105,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22479124}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2115,6 +2126,7 @@ RectTransform:
   - {fileID: 22482316}
   m_Father: {fileID: 22421190}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -198}
@@ -2132,6 +2144,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22453444}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2149,6 +2162,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22434558}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 9, y: -0.5}
@@ -2166,6 +2180,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22481708}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2183,6 +2198,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22478716}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2201,6 +2217,7 @@ RectTransform:
   - {fileID: 22419212}
   m_Father: {fileID: 22449456}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
   m_AnchoredPosition: {x: -5, y: 0}
@@ -2218,6 +2235,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22416388}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2238,6 +2256,7 @@ RectTransform:
   - {fileID: 22405322}
   m_Father: {fileID: 22461022}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2256,6 +2275,7 @@ RectTransform:
   - {fileID: 22422826}
   m_Father: {fileID: 22456428}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -42}
@@ -2273,6 +2293,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22421212}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2290,6 +2311,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22434994}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2308,6 +2330,7 @@ RectTransform:
   - {fileID: 22466274}
   m_Father: {fileID: 22449456}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2327,6 +2350,7 @@ RectTransform:
   - {fileID: 22409718}
   m_Father: {fileID: 22456428}
   m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -146}
@@ -2345,6 +2369,7 @@ RectTransform:
   - {fileID: 22428370}
   m_Father: {fileID: 22456428}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2362,6 +2387,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22453848}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2382,6 +2408,7 @@ RectTransform:
   - {fileID: 22428414}
   m_Father: {fileID: 22421190}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -182}
@@ -2400,6 +2427,7 @@ RectTransform:
   - {fileID: 22408674}
   m_Father: {fileID: 22456428}
   m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 85}
@@ -2418,6 +2446,7 @@ RectTransform:
   - {fileID: 22446850}
   m_Father: {fileID: 22456428}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 44.2}
@@ -2441,6 +2470,7 @@ RectTransform:
   - {fileID: 22453444}
   m_Father: {fileID: 22461022}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 209, y: -3}
@@ -2462,6 +2492,7 @@ RectTransform:
   - {fileID: 22478716}
   m_Father: {fileID: 495330}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2479,6 +2510,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22428414}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2496,6 +2528,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22456428}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 12, y: 131}
@@ -2513,6 +2546,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22421190}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -186}
@@ -2532,6 +2566,7 @@ RectTransform:
   - {fileID: 22415350}
   m_Father: {fileID: 22461022}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2550,6 +2585,7 @@ RectTransform:
   - {fileID: 22401764}
   m_Father: {fileID: 22461022}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.47736102, y: 0.27386418}
   m_AnchorMax: {x: 0.648, y: 0.637}
   m_AnchoredPosition: {x: 0, y: 23.06}
@@ -2567,6 +2603,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22495018}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2585,6 +2622,7 @@ RectTransform:
   - {fileID: 22409812}
   m_Father: {fileID: 22434558}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 10, y: -10}
@@ -2603,6 +2641,7 @@ RectTransform:
   - {fileID: 22401504}
   m_Father: {fileID: 22405322}
   m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2620,6 +2659,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22478716}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2637,6 +2677,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22405322}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2654,6 +2695,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 22449456}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
   m_AnchoredPosition: {x: 0, y: 0}
@@ -2672,6 +2714,7 @@ RectTransform:
   - {fileID: 22480746}
   m_Father: {fileID: 22405322}
   m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.25}
   m_AnchorMax: {x: 1, y: 0.75}
   m_AnchoredPosition: {x: -5, y: 0}

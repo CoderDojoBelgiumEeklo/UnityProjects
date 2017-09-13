@@ -7,3 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/FaerieWorld/Scenes/WindHolme.unity
+    guid: 4e31758304fed804d8ff807611d9d950
+  - enabled: 1
+    path: Assets/FaerieWorld/Scenes/SkrendHolme.unity
+    guid: 7f42ac3a57eb3be4f95210102a8ff90f
